@@ -1,7 +1,7 @@
 satgo1546 / animations
 ======================
 
-<span style="font-size: 400%; text-shadow: 0px 0px .3em currentcolor;">WIP</span>
+**WIP**
 
 I put the source files of animations here whenever I would like to create an animation about whatever I want.
 
