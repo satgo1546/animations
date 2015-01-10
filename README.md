@@ -1,6 +1,8 @@
 satgo1546 / animations
 ======================
 
+<span style="font-size: 400%; text-shadow: 0px 0px .3em currentcolor;">WIP</span>
+
 I put the source files of animations here whenever I would like to create an animation about whatever I want.
 
 Most of the animations here are CSS3 ones, but these are drafts. The final products might be listed below — they may have something different with the original ones.
